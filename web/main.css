@@ -1,0 +1,9 @@
+*{
+    font-family: Cambria;
+}
+
+@media print{
+    #printTable{
+        background: rgb(54, 24, 24);
+    }
+}
